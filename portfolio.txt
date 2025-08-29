@@ -1,0 +1,5 @@
+Stock Portfolio Report
+----------------------
+AAPL: 10 shares @ $180.50 | Value: $1805.00
+
+Total Portfolio Value: $1805.00
